@@ -1,0 +1,7 @@
+ <?php
+
+define('RESET_DB_USER', 'admin');
+define('RESET_DB_PASS', '');
+
+$config['pemilos']['db_name'] = 'pemilos';
+$config['pemilos']['db_file'] = '/home/michaelrk02/Websites/pemilos/pemilos.sql';
